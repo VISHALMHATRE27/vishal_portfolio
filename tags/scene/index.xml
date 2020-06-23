@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on  VISHAL MHATRE</title>
+    <link>https://vishalmhatre27.github.io/vishal_portfolio/tags/scene/</link>
+    <description>Recent content in scene on  VISHAL MHATRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vishalmhatre27.github.io/vishal_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cricket Prediction using Machine Learning</title>
+      <link>https://vishalmhatre27.github.io/vishal_portfolio/post/chapter-1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishalmhatre27.github.io/vishal_portfolio/post/chapter-1/</guid>
+      <description>The Cricket Prediction Model was tested with 3 different algorithms i.e the Random Forest ,Support Vector Machine and the Logistic Regression. It was observed that the Random Forest Algorithm worked with a good accuracy. This project tends to show how Machine Learning could be used to calculate probabilities in a Cricket match. With more amount of genuine data set we can increase the accuracy of the model. Finally I deployed the machine learning model on a website using Flask, Html and CSS.</description>
+    </item>
+    
+  </channel>
+</rss>
